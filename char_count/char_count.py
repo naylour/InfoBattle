@@ -10,5 +10,3 @@ def char_count(text: str):
     necessary_matches = filtered_chars.keys()
 
     return len(necessary_matches)
-
-print(char_count('aA11'))
